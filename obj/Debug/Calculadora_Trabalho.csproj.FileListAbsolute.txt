@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\Calculadora_Trabalho\Calculadora_Trabalho\bin\Debug\Calculadora_Trabalho.exe.config
+C:\Users\Dell\source\repos\Calculadora_Trabalho\Calculadora_Trabalho\bin\Debug\Calculadora_Trabalho.exe
+C:\Users\Dell\source\repos\Calculadora_Trabalho\Calculadora_Trabalho\bin\Debug\Calculadora_Trabalho.pdb
+C:\Users\Dell\source\repos\Calculadora_Trabalho\Calculadora_Trabalho\obj\Debug\Calculadora_Trabalho.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Calculadora_Trabalho\Calculadora_Trabalho\obj\Debug\Calculadora_Trabalho.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Calculadora_Trabalho\Calculadora_Trabalho\obj\Debug\Calculadora_Trabalho.exe
+C:\Users\Dell\source\repos\Calculadora_Trabalho\Calculadora_Trabalho\obj\Debug\Calculadora_Trabalho.pdb
